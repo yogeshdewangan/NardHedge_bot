@@ -1,0 +1,6 @@
+2023-03-14 22:41:58,743 - 
+
+2023-03-14 22:41:58,743 - ====== WebDriver manager ======
+2023-03-14 22:41:59,716 - Current google-chrome version is 109.0.5414
+2023-03-14 22:41:59,716 - Get LATEST chromedriver version for 109.0.5414 google-chrome
+2023-03-14 22:42:00,118 - Driver [C:\Users\Yogesh\.wdm\drivers\chromedriver\win32\109.0.5414.74\chromedriver.exe] found in cache
