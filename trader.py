@@ -5,19 +5,7 @@ from datetime import datetime
 
 mt.initialize()
 
-##### Real
-# login = 47824549
-# password = "TyVAWetE"
-# server = "OctaFX-Real2"
 
-# ##### Demo
-# login = 211630405
-# password = "e#Y#a$Ez"
-# server = "OctaFX-Demo"
-
-# login = 78725701
-# password = "Robot123"
-# server = "Exness-MT5Trial7"
 
 # ##### Demo
 login = 48051634
